@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pedrinsz
-- 👀 I’m interested in got hired from a TI company
-- 🌱 I’m currently learning java, html and js
+- 🌱 This profile is solely for educational purposes, where I store my personal projects and college projects.
 - 💞️ I’m looking to collaborate on java an python solutions
 - 📫 How to reach me//pedroszal@gmail.com //51 (48) 984122324//
 ..
